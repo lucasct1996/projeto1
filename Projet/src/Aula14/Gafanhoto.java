@@ -5,6 +5,7 @@ public class Gafanhoto extends Pessoa {
 	private String login;
 	private int totAssistido;
 	
+	// teste
 
 	public Gafanhoto(String nome, int idade, String sexo, float experiencia, String login) {
 		super(nome, idade, sexo, experiencia);
